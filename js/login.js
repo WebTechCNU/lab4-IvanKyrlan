@@ -52,8 +52,6 @@ function checkSignUp() {
         alert("Реєстрація пройшла успішно");
     }
 }
-
-
 loginForm.onsubmit = async (e) => {
     e.preventDefault();
 
